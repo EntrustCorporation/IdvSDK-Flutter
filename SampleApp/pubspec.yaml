@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  entrust_idvsdk_flutter: ^100.10.0
+  entrust_idvsdk_flutter: ^100.11.0
 
 dev_dependencies:
   flutter_test:

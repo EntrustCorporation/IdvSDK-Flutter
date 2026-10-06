@@ -1,3 +1,9 @@
+## 100.11.0
+
+### Added
+
+- Added native capture module packages (Welcome, Consent, Document, NFC, Face Photo, Face Motion, Biometric Token, Retry), installed with flutter pub add entrust_idvsdk_flutter_<module>.
+
 ## 100.10.0
 
 ### Added
