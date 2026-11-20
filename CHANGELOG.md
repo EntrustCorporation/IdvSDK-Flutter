@@ -1,3 +1,15 @@
+## 100.14.0
+
+### Added
+
+- Added support for Certificate Pinning
+
+### Changed
+
+- Update Android SDK to 100.19.0
+- Update iOS SDK to 100.20.0
+- Updated the Capture API to 5.10.0. The Dart `DocumentType` gains `genericDocument` (`generic_document`), as the React Native types already have, and the `FontSource` documentation now says local font files are supported through `resolveLocalFont`.
+
 ## 100.13.0
 
 ### Changed
